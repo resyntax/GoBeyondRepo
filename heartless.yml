@@ -1,0 +1,24 @@
+name: io.github.resyntax.heartless
+display_name: Heartless
+weight: 1
+version: 1
+equipment_slot: MAINHAND
+
+applicable_items:
+  - DIAMOND_SWORD
+  - NETHERITE_SWORD
+  - GOLDEN_SWORD
+  - IRON_SWORD
+  - STONE_SWORD
+  - WOODEN_SWORD
+  - DIAMOND_AXE
+  - NETHERITE_AXE
+  - GOLDEN_AXE
+  - IRON_AXE
+  - STONE_AXE
+  - WOODEN_AXE
+
+attributes:
+  add_number:
+    max_health: -6
+    attack_damage: 4
