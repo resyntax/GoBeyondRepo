@@ -1,0 +1,15 @@
+name: io.github.resyntax.Unflinching
+display_name: Unflinching
+weight: 4
+version: 1
+equipment_slot: MAINHAND
+
+applicable_items:
+  - MACE
+
+
+attributes:
+  add_scalar:
+    knockback_resistance: 0.9
+  multiply_scalar_1:
+    movement_speed: -0.5
