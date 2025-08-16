@@ -1,0 +1,32 @@
+name: io.github.resyntax.Giant
+display_name: Giant
+weight: 1
+version: 1
+equipment_slot: ARMOR
+
+applicable_items:
+  - DIAMOND_CHESTPLATE
+  - NETHERITE_CHESTPLATE
+  - GOLDEN_CHESTPLATE
+  - IRON_CHESTPLATE
+  - LEATHER_CHESTPLATE
+  - CHAINMAIL_CHESTPLATE
+  - DIAMOND_LEGGINGS
+  - NETHERITE_LEGGINGS
+  - GOLDEN_LEGGINGS
+  - IRON_LEGGINGS
+  - LEATHER_LEGGINGS
+  - CHAINMAIL_LEGGINGS
+  - DIAMOND_BOOTS
+  - NETHERITE_BOOTS
+  - GOLDEN_BOOTS
+  - IRON_BOOTS
+  - LEATHER_BOOTS
+  - CHAINMAIL_BOOTS
+
+
+attributes:
+  add_number:
+    max_health: 2
+  add_scalar:
+    size: 0.05
