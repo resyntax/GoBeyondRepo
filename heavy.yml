@@ -1,0 +1,40 @@
+name: io.github.resyntax.Heavy
+display_name: Heavy
+weight: 6
+version: 1
+equipment_slot: ARMOR
+
+applicable_items:
+  - DIAMOND_HELMET
+  - NETHERITE_HELMET
+  - GOLDEN_HELMET
+  - IRON_HELMET
+  - LEATHER_HELMET
+  - CHAINMAIL_HELMET
+  - DIAMOND_CHESTPLATE
+  - NETHERITE_CHESTPLATE
+  - GOLDEN_CHESTPLATE
+  - IRON_CHESTPLATE
+  - LEATHER_CHESTPLATE
+  - CHAINMAIL_CHESTPLATE
+  - DIAMOND_LEGGINGS
+  - NETHERITE_LEGGINGS
+  - GOLDEN_LEGGINGS
+  - IRON_LEGGINGS
+  - LEATHER_LEGGINGS
+  - CHAINMAIL_LEGGINGS
+  - DIAMOND_BOOTS
+  - NETHERITE_BOOTS
+  - GOLDEN_BOOTS
+  - IRON_BOOTS
+  - LEATHER_BOOTS
+  - CHAINMAIL_BOOTS
+
+
+attributes:
+  add_number:
+    armor_toughness: 0.5
+    knockback_resistance: 0.1
+    gravity: 0.005
+  add_scalar:
+    movement_speed: -0.05
