@@ -1,0 +1,22 @@
+name: io.github.resyntax.Nimble
+display_name: Nimble
+weight: 3
+version: 1
+equipment_slot: MAINHAND
+
+applicable_items:
+  - DIAMOND_SWORD
+  - NETHERITE_SWORD
+  - GOLDEN_SWORD
+  - IRON_SWORD
+  - STONE_SWORD
+  - WOODEN_SWORD
+
+
+attributes:
+  add_scalar:
+    movement_speed: 0.05
+    attack_speed: 0.15
+    attack_damage: 0.25
+    movement_efficiency: 0.3
+    
