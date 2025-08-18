@@ -1,0 +1,22 @@
+name: io.github.resyntax.Greater
+display_name: Greater
+weight: 2
+version: 1
+equipment_slot: MAINHAND
+
+applicable_items:
+applicable_items:
+  - DIAMOND_SWORD
+  - NETHERITE_SWORD
+  - GOLDEN_SWORD
+  - IRON_SWORD
+  - STONE_SWORD
+  - WOODEN_SWORD
+
+attributes:
+  add_number:
+    attack_damage: 1
+  add_scalar:
+    attack_speed: -0.3
+    sweeping_damage_ratio: 1
+    
