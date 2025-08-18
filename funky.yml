@@ -11,12 +11,6 @@ applicable_items:
   - IRON_SWORD
   - STONE_SWORD
   - WOODEN_SWORD
-  - DIAMOND_AXE
-  - NETHERITE_AXE
-  - GOLDEN_AXE
-  - IRON_AXE
-  - STONE_AXE
-  - WOODEN_AXE
 
 
 attributes:
