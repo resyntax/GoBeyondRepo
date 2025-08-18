@@ -1,0 +1,27 @@
+name: io.github.resyntax.Funky
+display_name: Funky
+weight: 4
+version: 1
+equipment_slot: ARMOR
+
+applicable_items:
+  - DIAMOND_SWORD
+  - NETHERITE_SWORD
+  - GOLDEN_SWORD
+  - IRON_SWORD
+  - STONE_SWORD
+  - WOODEN_SWORD
+  - DIAMOND_AXE
+  - NETHERITE_AXE
+  - GOLDEN_AXE
+  - IRON_AXE
+  - STONE_AXE
+  - WOODEN_AXE
+
+
+attributes:
+  add_number:
+    attack_damage: 0.5
+  add_scalar:
+    mining_efficiency: 0.5
+    attack_knockback: 0.15
