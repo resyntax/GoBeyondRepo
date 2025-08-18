@@ -2,7 +2,7 @@ name: io.github.resyntax.Funky
 display_name: Funky
 weight: 4
 version: 1
-equipment_slot: ARMOR
+equipment_slot: MAINHAND
 
 applicable_items:
   - DIAMOND_SWORD
