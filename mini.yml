@@ -1,0 +1,20 @@
+name: io.github.resyntax.Mini
+display_name: Mini
+weight: 1
+version: 1
+equipment_slot: MAINHAND
+
+applicable_items:
+applicable_items:
+  - DIAMOND_AXE
+  - NETHERITE_AXE
+  - GOLDEN_AXE
+  - IRON_AXE
+  - STONE_AXE
+  - WOODEN_AXE
+
+attributes:
+  add_scalar:
+    attack_speed: 1
+    attack_knockback: 0.5
+    attack_damage: -0.9
